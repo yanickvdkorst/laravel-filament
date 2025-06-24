@@ -14,5 +14,5 @@ Een eenvoudig beheerpaneel gebouwd met [Filament v3](https://filamentphp.com/doc
 1. **Clone de repository**
 
 ```bash
-git clone https://github.com/jouw-gebruiker/filament-panel-starter.git
+git clone https://github.com/yanickvdkorst/laravel-filament
 cd filament-panel-starter
